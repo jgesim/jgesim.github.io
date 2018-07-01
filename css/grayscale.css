@@ -152,19 +152,6 @@ a {
   -o-background-size: cover;
   background-size: cover; }
 
-.masthead .intro-body .intro-text {
-  color: #000000 !important; }
-
-.masthead .intro-body .brand-heading {
-  color: #000000 !important; }
-
-p {
-  font-weight: bolder !important; }
-
-#download .overview li {
-  color: #fff;
-  text-align: justify; }
-
 @media (min-width: 992px) {
   .content-section {
     padding-top: 200px;
