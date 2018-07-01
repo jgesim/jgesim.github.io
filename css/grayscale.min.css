@@ -11,4 +11,7 @@ color: #000000 !important;
 p{
 font-weight: bolder !important;
 }
+#download .overview ul li{
+	color: #000000;
+}
 
